@@ -1,4 +1,4 @@
-# Transfer Learning using SuperTML method from Sun et al. (https://arxiv.org/abs/1903.06246) on SAMSHA substance use data
+# Transfer Learning using SuperTML method from Sun et al. (2019) (https://arxiv.org/abs/1903.06246) on SAMSHA substance use data
 
 Background: Efficacious treatments for substance use disorder do not result in successful treatment for all patients. Machine learning can be used to identify where treatment may fail. This allows resources to be targeted toward those cases. Data in machine learning are often in structured format (rows and columns) deep neural networks are often not best-in-class with this format of data. Typically tree-based models perform better. Transfer learning, which involves repurposing a model on a task it was not trained for, may be an appropriate alternative to tree-based methods for structured (tabular) substance use data. This may allow training on large nationwide datasets to be leveraged when dealing with smaller clinical datasets.
 
