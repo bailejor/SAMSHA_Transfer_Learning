@@ -11,6 +11,19 @@ Results: In experiment one the RF performed better than all other models F0.5 = 
 
 Conclusion: These findings suggest that an approach to leveraging the power of large SUD datasets for transfer learning by embedding text onto 2D images may not be an effective approach. Although it is possible to achieve a score that is close to RF using 2D embeddings, it is highly inefficient. 
 
+<hr>
+<br>
+There are six files used in two experiments. <br>
+The first is called General_sub_resnet_50.ipynb. It contains the experiment that was run on the general substance dataset using transfer learning with the weights transferred from ResNet50. 
+The second is called Finetune_sub_ResNet50. This uses the same weights as the first model but fine-tuning is performed. 
+The third model is General_sub_no_transfer. This model is a CNN that was directly trained on the general substance dataset. It has randomly initialized weights. 
+The fourth model is the General_substance_RandomForest. This is a tuned random forest used to compare the other models to. 
+
+In experiment two there are two other files. 
+The first is Methadone_othersub_transfer. This file has the weights and structure of the randomly initialized model from experiment one. Transfer learning is attempted with the methadone dataset. 
+
+The second is Random_forest_methadone. This is a tuned random forest to compare the experiment two transfer learning model to. 
+
 Experiment 1 PR Curves
 <br>
 <img src="https://github.com/bailejor/SAMSHA_Transfer_Learning/blob/main/PRCurves/Experiment%201%20PR%20Curves.png?raw=true" width="400" height="300">
