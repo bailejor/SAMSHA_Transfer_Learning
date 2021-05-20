@@ -12,7 +12,9 @@ Results: In experiment one the RF performed better than all other models F0.5 = 
 Conclusion: These findings suggest that an approach to leveraging the power of large SUD datasets for transfer learning by embedding text onto 2D images may not be an effective approach. Although it is possible to achieve a score that is close to RF using 2D embeddings, it is highly inefficient. 
 
 Experiment 1 PR Curves
-<img src="https://github.com/bailejor/SAMSHA_Transfer_Learning/blob/main/PRCurves/Experiment%201%20PR%20Curves.png?raw=true" width="500" height="400">
-
+<br>
+<img src="https://github.com/bailejor/SAMSHA_Transfer_Learning/blob/main/PRCurves/Experiment%201%20PR%20Curves.png?raw=true" width="400" height="300">
+<br>
 Experiment 2 PR Curves
-<img src="https://github.com/bailejor/SAMSHA_Transfer_Learning/blob/main/PRCurves/Experiment%202%20PR%20Curves.png?raw=true" width="500" height="400">
+<br>
+<img src="https://github.com/bailejor/SAMSHA_Transfer_Learning/blob/main/PRCurves/Experiment%202%20PR%20Curves.png?raw=true" width="400" height="300">
