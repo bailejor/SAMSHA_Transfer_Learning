@@ -17,4 +17,4 @@ Experiment 1 PR Curves
 <br>
 Experiment 2 PR Curves
 <br>
-<img src="https://github.com/bailejor/SAMSHA_Transfer_Learning/blob/main/PRCurves/Experiment%202%20PR%20Curves.png?raw=true" width="400" height="300">
+<img src="https://github.com/bailejor/SAMSHA_Transfer_Learning/blob/main/PRCurves/Experiment%202%20PR%20Curves.png?raw=true" width="300" height="300">
