@@ -7,4 +7,4 @@ Objectives: The current study examined a method of classifying substance use tre
 Methods: Transfer learning and image embedding were used to classify data from a nationwide database. 28 categorical variables were embedded onto 2D images as inputs. Features were embedded as strings or numeric values. Missing data were embedded as question marks. Three model configurations were tested (a) a transfer model using ResNet50 as the base classifier, fine-tuning with ResNet50, and a randomly initialized-weight convolutional neural network (CNN) trained on the general substance dataset The most performant model was compared with a tuned random forest. 
 
 
- A randomly selected 70% (n = 322,691, 38% female) of nationwide discharges were used. The transfer learning model was compared with other models. All were evaluated using precision-recall curves. 
+ A randomly selected 70% (n = 435,974, 38% female) of nationwide discharges were used. The transfer learning model was compared with other models. All were evaluated using precision-recall curves. 
