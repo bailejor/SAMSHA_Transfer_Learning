@@ -20,5 +20,4 @@ The third model is the General_substance_RandomForest. This is a tuned random fo
 
 In experiment two there is one other file. This file is named Heroin_transfer_opioid.ipynb. In this file a tuned random forest is compared with a model that is trained on a large heroin dataset and then trained and tested on a small non-heroin opioid dataset. 
 
-![PR Curve Exp 2](https://github.com/bailejor/SAMSHA_Transfer_Learning/tree/main/PRCurves/PRCurve2.png)
-
+<img src="SAMSHA_Transfer_Learning/tree/main/PRCurves/PRCurve2.png" alt="PR Curve Exp 2"/>
