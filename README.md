@@ -9,7 +9,7 @@ Conclusion: These findings suggest transfer learning may be effective in predict
 
 <hr>
 <br>
-There are five files used in two experiments. <br>
+There are four files used in two experiments. <br>
 The first is called General_sub_resnet_50.ipynb. It contains the experiment that was run on the general substance dataset using transfer learning with the weights transferred from ResNet50. 
 The second model is General_sub_no_transfer. This model is a CNN that was directly trained on the general substance dataset. It has randomly initialized weights. 
 The third model is the General_substance_RandomForest. This is a tuned random forest used to compare the other models to. 
